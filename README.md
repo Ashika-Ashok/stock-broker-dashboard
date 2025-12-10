@@ -121,7 +121,7 @@
 ---
 
 ## Technologies Used
-
+* **Next.js**
 * **React.js** – Frontend framework
 * **Chart.js** – Interactive charts and graphs
 * **WebSockets** – Real-time price updates
